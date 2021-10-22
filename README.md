@@ -20,7 +20,7 @@
 ## My Frameworks:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Express.js-FAF9F6?style=for-the-badge&logo=express&logoColor=353535" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Express-FAF9F6?style=for-the-badge&logo=express&logoColor=353535" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
 <br>
