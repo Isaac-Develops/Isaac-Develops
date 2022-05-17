@@ -9,7 +9,7 @@
 
 <br>
   
-## My Programing Languages:
+## My Programing Languages
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@
   
 <br>
   
-## My Frameworks:
+## My Frameworks
 <img align="left" alt="medium" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Express-FAF9F6?style=for-the-badge&logo=express&logoColor=353535" />
