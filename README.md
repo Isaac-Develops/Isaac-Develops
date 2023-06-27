@@ -1,4 +1,4 @@
-## Hi there my name is Isaac Butterfield and I am a passionate Software Engineer! 👋
+## Hi there! My name is Isaac Butterfield and I have way too many hobbies! 👋
 ###### - My goal is to grow and develop my skills everyday!
 ###### - I love working on personal projects!
 ###### - I'll be doing one of my many hobbies when not coding!
