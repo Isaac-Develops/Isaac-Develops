@@ -12,10 +12,10 @@
 ## My Programing Languages
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" />
   
 <br>
   
