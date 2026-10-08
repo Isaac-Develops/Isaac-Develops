@@ -2,7 +2,7 @@
 
 Full-stack developer at [Towbook](https://www.towbook.com/). I like shipping personal projects, getting a little better every day, and picking up tools outside my usual stack.
 
-Right now that exploration is **game development with Unity**.
+Right now that exploration is **cybersecurity**.
 
 <p>
   <a href="https://www.linkedin.com/in/isaac-butterfield/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,12 +11,7 @@ Right now that exploration is **game development with Unity**.
 
 ## Currently exploring
 
-Unity — stretching C# in a different direction, and learning how games are actually put together.
-
-<p>
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
+Cybersecurity — learning how systems are attacked and defended, and building a stronger understanding of security from the ground up.
 
 ## Languages
 
