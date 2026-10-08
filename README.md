@@ -2,8 +2,6 @@
 
 Full-stack developer at [Towbook](https://www.towbook.com/). I like shipping personal projects, getting a little better every day, and picking up tools outside my usual stack.
 
-Right now that exploration is **cybersecurity**.
-
 <p>
   <a href="https://www.linkedin.com/in/isaac-butterfield/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Isaac_Develops/"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
